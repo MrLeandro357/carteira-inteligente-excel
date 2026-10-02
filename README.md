@@ -80,7 +80,7 @@ Contém as tabelas auxiliares utilizadas pelas fórmulas e pela distribuição d
 
 - Fórmulas financeiras
 - Função VF
-- ÍNDICE
+- PROCV
 - CORRESP
 - SOMA
 - Validação de Dados
@@ -89,6 +89,12 @@ Contém as tabelas auxiliares utilizadas pelas fórmulas e pela distribuição d
 - Gráficos de linha
 - Gráfico de rosca
 - Proteção de células
+
+## Fórmulas utilizadas
+
+A função **VF** é utilizada para calcular o valor futuro do patrimônio considerando aportes mensais e juros compostos.
+
+A combinação **PROCV + CORRESP** é utilizada na aba PERFIL para localizar automaticamente a categoria de investimento e retornar o percentual correspondente ao perfil selecionado pelo usuário.
 
 ## Exemplo de simulação
 
