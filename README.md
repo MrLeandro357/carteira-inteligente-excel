@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner Carteira Inteligente">
+</p>
+
 # Carteira Inteligente
 
 Ferramenta de controle e simulação de investimentos desenvolvida em Excel como projeto do bootcamp Santander Excel 2026 da DIO.
@@ -96,6 +100,32 @@ A ferramenta calcula aproximadamente:
 - Patrimônio acumulado: R$ 100.108,73
 - Rendimento obtido: R$ 40.108,73
 - Renda passiva estimada: R$ 800,87
+
+## Demonstração
+
+### Simulador
+
+A aba principal permite configurar os parâmetros da simulação e visualizar automaticamente os resultados do investimento.
+
+<p align="center">
+  <img src="images/simulador.png" alt="Simulador Carteira Inteligente" width="850">
+</p>
+
+### Cenários de investimento
+
+A ferramenta apresenta projeções para diferentes períodos, comparando o total investido com o patrimônio acumulado ao longo do tempo.
+
+<p align="center">
+  <img src="images/cenarios.png" alt="Cenários de investimento" width="850">
+</p>
+
+### Perfil do investidor
+
+O usuário pode selecionar entre os perfis Conservador, Moderado e Agressivo. A distribuição da carteira e o gráfico são atualizados automaticamente.
+
+<p align="center">
+  <img src="images/perfil.png" alt="Perfil do investidor" width="850">
+</p>
 
 ## Tecnologias e ferramentas
 
