@@ -10,7 +10,7 @@ Ferramenta de controle e simulação de investimentos desenvolvida em Excel como
 
 Clique abaixo para baixar e testar o projeto:
 
-### [⬇️ Baixar Carteira Inteligente](./Carteira_Inteligente.xlsx)
+### [⬇️ Baixar Carteira Inteligente](https://raw.githubusercontent.com/MrLeandro357/carteira-inteligente-excel/main/Carteira_Inteligente.xlsx)
 
 ## Sobre o projeto
 
