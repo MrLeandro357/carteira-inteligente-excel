@@ -6,6 +6,12 @@
 
 Ferramenta de controle e simulação de investimentos desenvolvida em Excel como projeto do bootcamp Santander Excel 2026 da DIO.
 
+## 📥 Download da Planilha
+
+Clique abaixo para baixar e testar o projeto:
+
+### [⬇️ Baixar Carteira Inteligente](./Carteira_Inteligente.xlsx)
+
 ## Sobre o projeto
 
 O **Carteira Inteligente** é uma ferramenta desenvolvida em Microsoft Excel para auxiliar na simulação e visualização da evolução de investimentos ao longo do tempo.
